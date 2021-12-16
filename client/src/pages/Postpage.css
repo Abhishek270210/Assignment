@@ -1,0 +1,12 @@
+.row{
+    display: flex;
+}
+
+.column{
+   width: 50%;
+   text-align: center;
+}
+
+.addUser{
+    padding-top: 80px;
+}
